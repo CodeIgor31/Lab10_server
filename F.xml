@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects type="array">
+  <object>
+    <def type="integer">0</def>
+    <sqr type="integer">0</sqr>
+    <count type="integer">0</count>
+  </object>
+  <object>
+    <def type="integer">1</def>
+    <sqr type="integer">1</sqr>
+    <count type="integer">1</count>
+  </object>
+  <object>
+    <def type="integer">2</def>
+    <sqr type="integer">4</sqr>
+    <count type="integer">2</count>
+  </object>
+  <object>
+    <def type="integer">3</def>
+    <sqr type="integer">9</sqr>
+    <count type="integer">3</count>
+  </object>
+</objects>
